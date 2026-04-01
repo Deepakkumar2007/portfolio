@@ -8,7 +8,7 @@ const Projects = () => {
       date: "Jun – Aug 2025",
       desc: "Built an AI-powered chatbot using Python to predict real-estate property prices computationally, integrating ML models trained on location, area, rooms, and market trends.",
       tags: ["Python", "Machine Learning", "GUI"],
-      github: "https://github.com/Deepakkumar200",
+      github: "https://github.com/Deepakkumar2007",
       live: "#"
     },
     {
@@ -16,7 +16,7 @@ const Projects = () => {
       date: "Apr – Jun 2023",
       desc: "Developed a full-stack Job Portal enabling user registration, job posting, profile management, and live job search. Engineered prompt generation logic for optimized recommendations.",
       tags: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-      github: "https://github.com/Deepakkumar200",
+      github: "https://github.com/Deepakkumar2007",
       live: "#"
     }
   ];

@@ -5,7 +5,7 @@ const Contact = () => {
   const contactInfo = [
     { icon: <Phone size={20} />, text: "+91-9682021319", href: "tel:+919682021319" },
     { icon: <Mail size={20} />, text: "dy402937@gmail.com", href: "mailto:dy402937@gmail.com" },
-    { icon: <Code size={20} />, text: "github.com/Deepakkumar200", href: "https://github.com/Deepakkumar200" },
+    { icon: <Code size={20} />, text: "github.com/Deepakkumar2007", href: "https://github.com/Deepakkumar2007" },
     { icon: <Link size={20} />, text: "linkedin.com/in/deepakkumar002", href: "https://linkedin.com/in/deepakkumar002" }
   ];
 

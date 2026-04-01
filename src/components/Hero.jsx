@@ -33,7 +33,7 @@ const Hero = () => {
           </div>
 
           <div className="social-icons">
-            <a href="https://github.com/Deepakkumar200" className="social-icon" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Deepakkumar2007" className="social-icon" target="_blank" rel="noopener noreferrer">
               <Code size={20} />
             </a>
             <a href="https://linkedin.com/in/deepakkumar002" className="social-icon" target="_blank" rel="noopener noreferrer">
