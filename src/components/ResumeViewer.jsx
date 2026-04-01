@@ -16,7 +16,7 @@ const ResumeViewer = ({ onBack }) => {
         </button>
 
         <a 
-          href="Deepak_Kumar_Resume.pdf"
+          href="/portfolio/Deepak_Kumar_Resume.pdf"
           download="Deepak_Kumar_Resume.pdf"
           className="resume-download-btn"
         >
@@ -30,7 +30,7 @@ const ResumeViewer = ({ onBack }) => {
       <div className="resume-viewer-container">
         <div className="resume-embed-wrapper">
            <iframe 
-             src="Deepak_Kumar_Resume.pdf#toolbar=0" 
+             src="/portfolio/Deepak_Kumar_Resume.pdf#toolbar=0" 
              title="Deepak Kumar Resume"
              className="resume-iframe"
            />
